@@ -265,9 +265,9 @@ Dự án này được tạo ra để:
 - **Giáo dục**: Nâng cao nhận thức về an toàn thông tin
 - **Penetration Testing**: Kiểm tra bảo mật hệ thống
 
-## Tuyên bố trách nhiệm
+## Tuyên bố miễn trừ trách nhiệm
 
-**QUAN TRỌNG**: Dự án này chỉ dành cho mục đích nghiên cứu và giáo dục. Tác giả không chịu trách nhiệm về việc sử dụng sai mục đích. Người sử dụng phải tuân thủ pháp luật địa phương và chỉ sử dụng trên hệ thống thuộc quyền sở hữu của mình.
+**Miễn trừ trách nhiệm**: Dự án này được phát triển cho mục đích nghiên cứu và đào tạo về an ninh. Tuyệt đối không sử dụng mã nguồn này để xâm phạm quyền riêng tư hoặc thu thập dữ liệu thật. Trước khi chạy, hãy đảm bảo chỉ thực hiện trong môi trường được kiểm soát (VM/sandbox) và có sự đồng ý rõ ràng của chủ hệ thống, người sử dụng phải tuân thủ pháp luật địa phương và chỉ sử dụng trên hệ thống thuộc quyền sở hữu của mình. Tác giả không chịu trách nhiệm cho mọi hành vi sử dụng sai mục đích.
 
 Việc sử dụng keylogger để theo dõi người khác mà không có sự đồng ý là bất hợp pháp trong hầu hết các quốc gia.
 
